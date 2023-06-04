@@ -32,4 +32,7 @@ Our team consisted of the following engineers:
 - Derrick Truong ([GitHub](https://github.com/Derrick-Truong) | LinkedIn)
 - Kisha Onia ([GitHub](https://github.com/kishaonia) | [LinkedIn](https://www.linkedin.com/in/kisha-rose-onia-63bb35182/))
 
+<img width="1684" alt="Screenshot 2023-05-31 at 10 37 33 PM" src="https://github.com/kishaonia/Spork/assets/110861069/8c8744ae-959c-4a65-b89a-fb1fbd9e8d8e">
+<img width="1689" alt="Screenshot 2023-05-31 at 10 36 42 PM" src="https://github.com/kishaonia/Spork/assets/110861069/1edb5e13-5fc4-4b9d-8adc-8ea0956fe4a5">
 
+<img width="716" alt="Screenshot 2023-05-31 at 10 36 46 PM" src="https://github.com/kishaonia/Spork/assets/110861069/5a47cb03-5b1b-45da-a09c-b772f6bacdbc">
